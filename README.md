@@ -1,6 +1,6 @@
 # yakshaving.xyz
 
-We are a developer collective, currently just a team of 2 who wanted to collaborate on cool projects together under a common umberlla.
+We are a developer collective, currently just a team of 2 who wanted to collaborate on cool projects together under a common umbrella.
 
 So, we did what all developers do whenever they have an idea. Buy a cool domain. So, we bought yakshaving.xyz
 
